@@ -123,8 +123,8 @@
   const langToggle = document.getElementById("langToggle");
   const metaDescription = document.querySelector('meta[name="description"]');
   const metaTitles = {
-    fr: "Site Web easy clean morocco",
-    ar: "Site Web easy clean morocco"
+    fr: "easy clean morocco.ma",
+    ar: "easy clean morocco.ma"
   };
   const metaDescriptions = {
     fr: "Easy Clean Morocco accompagne les entreprises au Maroc : nettoyage industriel, prestations de nettoyage, produits et matériel, équipements de sécurité, dératisation et désinsectisation. Devis gratuit sous 24 h.",
